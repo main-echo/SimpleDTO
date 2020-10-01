@@ -1,6 +1,6 @@
 {
-    "name": "phpexperts/simple-dto",
-    "description": "A quick and easy DTO package.",
+    "name": "main-echo/simple-dto",
+    "description": "A fork of `phpexperts/simple-dto`—a quick and easy DTO package.",
     "keywords": [
         "dto",
         "data transfer objects",
